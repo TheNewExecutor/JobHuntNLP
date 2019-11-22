@@ -12,7 +12,7 @@ This project was run using the Anaconda distribution on Windows 10.
 
 `conda env create -f JobHuntNLP.yml`
 
-If the countries.yml is not in the right folder, then its full path must be specified:
+If the JobHuntNLP.yml is not in the right folder, then its full path must be specified:
 
 `conda env create -f C:\folder1\folder2\...\JobHuntNLP.yml`
 
